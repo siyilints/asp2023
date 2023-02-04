@@ -1,0 +1,7 @@
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\bin\Debug\Cstifstatement.exe.config
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\bin\Debug\Cstifstatement.exe
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\bin\Debug\Cstifstatement.pdb
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\obj\Debug\Cstifstatement.csproj.AssemblyReference.cache
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\obj\Debug\Cstifstatement.csproj.CoreCompileInputs.cache
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\obj\Debug\Cstifstatement.exe
+D:\asp2023\Day3\CstDay3\Cstifstatement\Cstifstatement\obj\Debug\Cstifstatement.pdb
