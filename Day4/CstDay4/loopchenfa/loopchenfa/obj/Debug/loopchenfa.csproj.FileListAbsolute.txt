@@ -1,0 +1,7 @@
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\obj\Debug\loopchenfa.csproj.AssemblyReference.cache
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\obj\Debug\loopchenfa.csproj.CoreCompileInputs.cache
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\bin\Debug\loopchenfa.exe.config
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\bin\Debug\loopchenfa.exe
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\bin\Debug\loopchenfa.pdb
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\obj\Debug\loopchenfa.exe
+D:\asp2023\Day4\CstDay4\loopchenfa\loopchenfa\obj\Debug\loopchenfa.pdb
